@@ -34,6 +34,7 @@ public class App
 		System.out.println();
 		
 		//método sobrescrito
-		smartphone.informarCaracteristicas();			
+		smartphone.informarCaracteristicas();	
+			
 	}
 }
