@@ -23,5 +23,6 @@ public class SmartPhone extends Celular{
 		//System.out.println(String.format("SmartPhone tamaño memoria interna: %s GB", tamanioMemoriaInterna));
 		//System.out.println(String.format("SmartPhone tamaño memoria externa: %s GB", tamanioMemoriaExterna));
 	}
+	//cambios en archivo
 	
 }
